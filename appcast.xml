@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>TestSparkle</title>
+        <title>VPN Proxy Master Enterprise</title>
         <item>
-            <title>test for title</title>
+            <title>Version 2.5.6</title>
             <pubDate>Wed, 15 Jul 2020 09:33:04 +0000</pubDate>
-            <sparkle:minimumSystemVersion>1.1</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/gaoxiaowei/SparkTestDemo/master/relnotes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/FirstStepzz/testSparkle/raw/master/TestSparkle.app.zip" sparkle:version="2020.07.14" sparkle:shortVersionString="1.0" length="1739818" type="application/octet-stream" sparkle:edSignature="uQedj79e8AueyP2OxZqHTrzMmJ90jqP7HAU3qirplJ4B4KVEc6FUKaosopcmlVKjMcarYfs94enKXqjZ7c4wAw=="/>
+            <enclosure url="https://dsl-app.s3.us-east-2.amazonaws.com/mac/config/update/VPN+Proxy+Master+Enterprise.app.zip" sparkle:version="2020.07.14" sparkle:shortVersionString="2.5.6" length="11927795" type="application/octet-stream" sparkle:edSignature="Oz0SkvVU+eLAj977OlYNDw1KfpGtAe4tt0Gog6RNxXexTzx8ES6M5Nu7ZRlq3uuFeTHtKLM/t+JobvKgqcCBBA=="/>
         </item>
     </channel>
 </rss>
