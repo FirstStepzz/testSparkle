@@ -13,7 +13,7 @@
             <!-- Sparkle 1.21+ uses sparkle::edSignature="ed25519" instead of sparkle::dsaSignature="deprecated DSA" -->
             <enclosure
             	url="https://github.com/FirstStepzz/testSparkle/raw/master/testSparkle1.1.app.zip"
-            	sparkle:shortVersionString="1.1"
+            	sparkle:shortVersionString="1.0"
             	sparkle:version="2020.07.14"
             	length="1741353"
             	type="application/octet-stream"
