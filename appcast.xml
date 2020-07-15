@@ -5,9 +5,9 @@
         <item>
             <title>test for title</title>
             <pubDate>Wed, 15 Jul 2020 09:33:04 +0000</pubDate>
-            <sparkle:minimumSystemVersion>1.0</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>1.1</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/gaoxiaowei/SparkTestDemo/master/relnotes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/FirstStepzz/testSparkle/raw/master/testSparkle1.1.app.zip" sparkle:version="2020.07.14" sparkle:shortVersionString="1.0" length="1741353" type="application/octet-stream" sparkle:edSignature="yvBKW0c6YdbTou4N0banvLJh1B89pk1vwrgIdZr0vLlNXoVhyYR/i4eDMneLQxD1HgzopolppwQMF7eVwKRCAw=="/>
+            <enclosure url="https://github.com/FirstStepzz/testSparkle/raw/master/TestSparkle.app.zip" sparkle:version="2020.07.14" sparkle:shortVersionString="1.0" length="1739818" type="application/octet-stream" sparkle:edSignature="uQedj79e8AueyP2OxZqHTrzMmJ90jqP7HAU3qirplJ4B4KVEc6FUKaosopcmlVKjMcarYfs94enKXqjZ7c4wAw=="/>
         </item>
     </channel>
 </rss>
