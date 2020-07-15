@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>TestSparkle</title>
+        <description>TestSparkle test for update</description>
+        <language>en</language>
+        <item>
+            <title>test for title</title>
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/gaoxiaowei/SparkTestDemo/master/relnotes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 15 Jul 2020 09:33:04 +0000</pubDate>
+            <!-- Sparkle 1.21+ uses sparkle::edSignature="ed25519" instead of sparkle::dsaSignature="deprecated DSA" -->
+            <enclosure
+            	url="https://github.com/FirstStepzz/testSparkle/raw/master/testSparkle1.1.app.zip"
+            	sparkle:shortVersionString="1.1"
+            	sparkle:version="2020.07.14"
+            	length="1741353"
+            	type="application/octet-stream"
+            	sparkle:edSignature="yvBKW0c6YdbTou4N0banvLJh1B89pk1vwrgIdZr0vLlNXoVhyYR/i4eDMneLQxD1HgzopolppwQMF7eVwKRCAw=="
+            	/>
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
